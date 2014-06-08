@@ -64,6 +64,11 @@
 
     "resources": {
         "license": "http://www.perlfoundation.org/artistic_license_2_0",
-        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=Parse-CPAN-Distributions" }
+        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=Parse-CPAN-Distributions" },
+        "repository": {
+            "url": "git://github.com/barbie/Parse-CPAN-Distributions.git",
+            "web": "http://github.com/barbie/parse-cpan-distributions",
+            "type": "git"
+        }
     }
 }
