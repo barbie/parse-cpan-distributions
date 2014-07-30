@@ -5,7 +5,8 @@ use LWP::UserAgent;
 use Parse::CPAN::Distributions;
 use Test::More  tests => 8;
 
-my $version = '0.09';
+use Parse::CPAN::Distributions;
+my $version = $Parse::CPAN::Distributions::VERSION;
 
 my $ua = LWP::UserAgent->new;
 $ua->timeout(10);
