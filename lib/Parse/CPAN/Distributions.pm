@@ -8,7 +8,7 @@ $VERSION = '0.12';
 
 #----------------------------------------------------------------------------
 
-=head1 NAM2
+=head1 NAME
 
 Parse::CPAN::Distributions - Provides an index for current CPAN distributions
 
