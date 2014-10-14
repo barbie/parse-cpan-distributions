@@ -1,6 +1,6 @@
 {
     "name" : "Parse-CPAN-Distributions",
-    "version" : "0.13",
+    "version" : "0.14",
     "abstract" : "Provides an index for current CPAN distributions",
     "author" : [
         "Barbie <barbie@cpan.org>"
@@ -63,7 +63,7 @@
     "provides" : {
         "Parse::CPAN::Distributions" : {
             "file" : "lib/Parse/CPAN/Distributions.pm",
-            "version" : "0.13"
+            "version" : "0.14"
         }
     },
 
